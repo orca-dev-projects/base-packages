@@ -1,0 +1,24 @@
+{
+    "name": "@orca/base-packages",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "orca Backend Team",
+    "license": "ISC",
+    "dependencies": {
+        "@hapi/joi": "^17.1.1",
+        "cockatiel": "^2.0.1",
+        "extend": "^3.0.2",
+        "i18n": "^0.13.3",
+        "ioredis": "^4.23.0",
+        "joi-to-swagger": "^4.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongodb": "^3.6.4",
+        "mysql2": "^2.2.5",
+        "opossum": "^6.0.0",
+        "path": "^0.12.7"
+    }
+}
